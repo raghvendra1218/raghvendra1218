@@ -5,7 +5,7 @@ Experienced developer with corporate experience of over <em>5</em> years. (<em>3
 
 Full-stack developer, working in BayArea, CA, USA. :beach_umbrella: :mountain_snow: :desert_island: :national_park:.
 
-<h3><i>Work expirence:technologist:</h3></i>
+<h3><i>Work experience:technologist:</h3></i>
 Current employer:
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/icons8-netapp.svg" alt="netApp" width="60" height="60"/></a> &nbsp;
 Previous employers:
