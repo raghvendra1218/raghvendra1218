@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Raghvendra Dixit <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3><i>Introduction</h3></i>
-Expirenced developer with corporate expirence of over 5 years (3 years as a Back end Developer)
+<h3><i>Introduction :raising_hand: :skier: :lotus_position: :weight_lifting_man: :biking_man:</h3></i>
+Expirenced developer with corporate experience of over <em>5</em> years. (<em>3</em> years as a Back end Developer)
 
-Full-stack developer, working in BayArea, CA, USA.
+Full-stack developer, working in BayArea, CA, USA. :beach_umbrella: :mountain_snow: :desert_island: :national_park:.
 
 <h3><i>Work expirence:technologist:</h3></i>
 Current employer:
