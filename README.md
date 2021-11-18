@@ -21,7 +21,7 @@ Previous employers:
 
 Masters, San Jose State University
 
-Major: Distributed Sytems & Cloud Computing
+Major: Distributed Systems & Cloud Computing
 
 <h3><i>Academic Projects</h3></i>
 
