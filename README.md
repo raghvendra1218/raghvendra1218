@@ -55,7 +55,7 @@ Major: Distributed Sytems & Cloud Computing
 <h3><i>GitHub's Stats <img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/stats.gif" width="35"/></i></h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghvendra1218&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raghvendra's Github Stats">
-
+<br></br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </p>
