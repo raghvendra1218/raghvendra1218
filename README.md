@@ -44,9 +44,12 @@ Major: Distributed Sytems & Cloud Computing
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a> &nbsp; 
 </p>
 
-<h3><i>Let's Connect !!<img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/handshake.gif" width="100" /></i></h3>
+<h3><i>Let's Connect !!
+<img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/handshake.gif" width="100" />
+</i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raghvendradixit" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" alt="raghvendradixit" width="50" /></a>
+<a href="https://leetcode.com/raghvendra1218" target="blank"><img align="center" src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/leetcode.gif" alt="raghvendra1218" width="50"/></a>
 </p>
 
 <h3><i>GitHub's Stats <img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/stats.gif" width="35"/></i></h3>
