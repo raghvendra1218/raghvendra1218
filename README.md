@@ -7,9 +7,9 @@ Full-stack developer, working in BayArea, CA, USA. :beach_umbrella: :mountain_sn
 
 <h3><i>Work experience:technologist:</h3></i>
 Current employer:
+  
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/linkedin-logo.svg" alt="linkedin" width="60" height="60"/></a>
 Previous employers:
-
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/icons8-netapp.svg" alt="netApp" width="60" height="60"/></a>
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/icons8-sap.svg" alt="sap" width="60" height="60"/></a> &nbsp;
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/icons8-paypal.svg" alt="paypal" width="60" height="60"/></a> &nbsp;
