@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi <img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/Hi.gif" width="35"> I'm Raghvendra Dixit <img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/smartyemoji.gif" width="35"></h1>
 <h3><i>Introduction :raising_hand: :skier: :lotus_position: :weight_lifting_man: :biking_man:</h3></i>
-Application developer with corporate experience of over <em>5</em> years. (<em>3</em> years as a Back end Developer)
+Application developer with corporate experience of over <em>10</em> years. (<em>6</em> years as a Back end Developer)
 
 Full-stack developer, working in BayArea, CA, USA. :beach_umbrella: :mountain_snow: :desert_island: :national_park:.
 
 <h3><i>Work experience:technologist:</h3></i>
 Current employer:
+ 
+<br><a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/linkedin-logo.svg" alt="linkedin" width="50" height="50"/></a></br>
   
-<a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/linkedin-logo.svg" alt="linkedin" width="50" height="50"/></a>
-
 Previous employers:
 
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/icons8-netapp.svg" alt="netApp" width="60" height="60"/></a>
@@ -48,8 +48,8 @@ Major: Distributed Systems & Cloud Computing
 <a><img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/svg/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a> &nbsp; 
 </p>
 
-<h3><i>Let's Connect !!
-<img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/handshake.gif" width="100" />
+<h3><i>
+  Let's Connect !!<img src="https://github.com/raghvendra1218/raghvendra1218/blob/main/Gifs/handshake.gif" width="100" />
 </i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raghvendradixit" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" alt="raghvendradixit" width="50" /></a>
